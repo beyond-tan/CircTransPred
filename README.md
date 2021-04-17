@@ -8,7 +8,7 @@ Requirements:
 3. sklearn
 4. joblib
 
-Usage:
+Usage:  
 python CircTransPred.py --input_file data/test.fa --output_file data/pred_result.txt  
 --input_file: input file must be standard FASTA format file  
 --output_file: the output file used to store the prediction label and probability of input data  
